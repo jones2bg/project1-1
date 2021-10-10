@@ -10,4 +10,4 @@
 4. Did you find any other issues? If so, briefly enumerate them.
     - No other issues. Reused CSS is not duplicated in the elements, and style is maintained throughout the entire website.
 5. Do you have any other constructive comments for the author?
-    - Really good job! This website is awesome!
+    - Really good job! This website is awesome! You've outdone yourself!
